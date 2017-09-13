@@ -8,7 +8,7 @@ defaults:
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Julia Anne Leonard"
 title_separator          : "-"
 name                     : "Your Name"
 description              : "An amazing website."
@@ -78,10 +78,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  name             : 
+  avatar           : "headshot.png"
+  bio              : "graduate student in Brain and Cognitive Sciences at MIT"
+  location         : "Cambridge, MA"
   email            :
   uri              :
   bitbucket        :
