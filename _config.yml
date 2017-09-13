@@ -1,6 +1,6 @@
 
 
-minimal_mistakes_skin    : "default" # "air", "contrast", "dark", "dirt", "mint", "sunrise"
+minimal_mistakes_skin    : "contrast" # "air", "contrast", "dark", "dirt", "mint", "sunrise"
 
 defaults:
     values:
