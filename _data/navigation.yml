@@ -18,6 +18,8 @@ main:
     url: /CV/
   - title: "Outreach"
     url: /Outreach/
+  - title: "Press"
+    url: /Press/
 
 #- title: "About"
  #   url: https://github.com/jlnrd/jlnrd.github.io
