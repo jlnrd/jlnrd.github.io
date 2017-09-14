@@ -14,7 +14,7 @@
 main:
   - title: "Publications"
     url: /Publications
-#  - title: "CV"
-#    url: /year-archive/
-#  - title: "About"
-#    url: /categories/
+  - title: "CV"
+    url: /CV/
+  - title: "About"
+    url: https://github.com/jlnrd/jlnrd.github.io
