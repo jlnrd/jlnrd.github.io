@@ -11,9 +11,10 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
   
-  docs:
-  - title: Publications
-
-  - title: CV
-
-  - title: About
+#main:
+#  - title: "Publications"
+#    url: /docs/quick-start-guide/
+#  - title: "CV"
+#    url: /year-archive/
+#  - title: "About"
+#    url: /categories/
