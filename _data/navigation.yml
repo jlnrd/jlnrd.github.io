@@ -16,5 +16,6 @@ main:
     url: /Publications
   - title: "CV"
     url: /CV/
-  - title: "About"
-    url: https://github.com/jlnrd/jlnrd.github.io
+
+#- title: "About"
+ #   url: https://github.com/jlnrd/jlnrd.github.io
