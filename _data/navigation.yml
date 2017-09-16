@@ -18,6 +18,8 @@ main:
     url: /CV/
   - title: "Outreach"
     url: /Outreach/
+ - title: "Collaborators"
+    url: /Collaborators/
   - title: "Press"
     url: /Press/
 
