@@ -5,9 +5,9 @@ minimal_mistakes_skin    : "contrast" # "air", "contrast", "dark", "dirt", "mint
 
 # Site Settings
 locale                   : "en"
-title                    : "Julia Anne Leonard"
+title                    : "Julia A. Leonard"
 title_separator          : "-"
-name                     : #""
+name                     : "Julia A. Leonard"
 description              : "peronal website of Julia A. Leonard, graduate student at MIT in Brain and Cognitive Science. Julia Leonard. Jlnrd. MIT. Psychology. Developmental Neuroscience."
 url                      : #"https://jlnrd.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
