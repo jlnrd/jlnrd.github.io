@@ -95,8 +95,8 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 46px;
-  height: 46px;
+  width: 46px; #36
+  height: 46px; #36
 
   @include breakpoint($large) {
     display: block;
@@ -105,7 +105,7 @@
   }
 
   img {
-    max-width: 110px;
+    max-width: 150px; #110
     border-radius: 50%;
 
     @include breakpoint($large) {
